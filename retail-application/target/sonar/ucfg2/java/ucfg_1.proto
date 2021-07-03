@@ -1,0 +1,109 @@
+
+dcom.roudy.retail.controller.GoodRowMapper#mapRow(Ljava/sql/ResultSet;I)Lcom/roudy/retail/model/Good;�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASretail-applicationon/src/main/java/com/roudy/retail/controller/GoodRowMapper.java
+ 
+("paramAnnotations*�retail-application
+paramAnnotations�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java
+ retail-application
+(0�
+�
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (
+
+%10"
+__annotate*
+java.lang.Override*retail-application
+
+rsjava.sql.ResultSet�
+�
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java
+! retail-application
+(#
+rsjava.sql.ResultSet"__annotation*retail-application
+
+%10*
+1*�
+1�retail-application
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (!
+%0com.roudy.retail.model.Good"com.roudy.retail.model.Good�
+�
+�retail-application
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (
+%1"%com.roudy.retail.model.Good#<init>()V*#
+!
+%0com.roudy.retail.model.Good�
+�retail-application
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (#
+goodcom.roudy.retail.model.Good"__id*#
+!
+%0com.roudy.retail.model.Good��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASretail-applicationon/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (#
+
+%2long"/java.sql.ResultSet#getLong(Ljava/lang/String;)J*
+
+rsjava.sql.ResultSet*
+ID2getLong(Ljava/lang/String;)��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java ($
+
+%3void"4com.roudy.retail.model.Good#setID(Ljava/lang/Long;)V*%retail-application
+#
+goodcom.roudy.retail.model.Good*
+
+
+%2long2setID(Ljava/lang/Long;)��
+�retail-application
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java ()
+%4java.lang.String"Bjava.sql.ResultSet#getString(Ljava/lang/String;)Ljava/lang/String;*
+
+rsjava.sql.ResultSet*
+NAME2getString(Ljava/lang/String;)��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (*
+retail-application
+%5void"8com.roudy.retail.model.Good#setName(Ljava/lang/String;)V*%
+#
+goodcom.roudy.retail.model.Good*
+
+%4java.lang.String2setName(Ljava/lang/String;)��
+�retail-application
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java ()
+%6java.lang.String"Bjava.sql.ResultSet#getString(Ljava/lang/String;)Ljava/lang/String;*
+
+rsjava.sql.ResultSet*
+TYPE2getString(Ljava/lang/String;)��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (*
+retail-application
+%7void"8com.roudy.retail.model.Good#setType(Ljava/lang/String;)V*%
+#
+goodcom.roudy.retail.model.Good*
+
+%6java.lang.String2setType(Ljava/lang/String;)��
+�retail-application
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (+
+%8double"1java.sql.ResultSet#getDouble(Ljava/lang/String;)D*
+
+rsjava.sql.ResultSet*	
+PRICE2getDouble(Ljava/lang/String;)��
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (,
+retail-application
+%9void"(com.roudy.retail.model.Good#setPrice(D)V*%
+#
+goodcom.roudy.retail.model.Good*
+
+%8double2setPrice(D)"�
+�
+�/Users/roudy/Documents/workspace-spring-tool-suite-4-4.5.0.RELEASE/retail-store-application/src/main/java/com/roudy/retail/controller/GoodRowMapper.java (%
+#
+goodcom.roudy.retail.model.Good:
+rsjava.sql.ResultSet:
+""B-+
+)com.roudy.retail.controller.GoodRowMapper
